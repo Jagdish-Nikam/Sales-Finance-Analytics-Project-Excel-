@@ -102,10 +102,11 @@ Created Excel reports to track:
 - Customer performance
 
 ## Key Insights
-- The company’s revenue increased significantly from 2019 to 2021, showing strong expansion in sales across multiple markets.
-- A few key markets such as India and the USA generated a large portion of total sales, making them the most important regions for business growth.
-- A small group of customers contributed a significant share of the overall revenue, highlighting the importance of maintaining strong relationships with top clients.
-- Sales were higher during the final quarter of the year, indicating seasonal demand that the company can use for better planning and inventory management.
+
+- The company’s sales grew strongly from 2019 to 2021, showing good business growth.
+- Markets like India and USA contributed the highest revenue for the company.
+- A small number of customers contribute a large part of the total sales.
+- Most sales happen in Q4, showing that demand is higher during that period.
 
 
 
