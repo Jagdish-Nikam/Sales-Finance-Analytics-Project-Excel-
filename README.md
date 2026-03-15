@@ -1,4 +1,4 @@
-# Sales & Finance Analytics Project (AtliQ Hardware) : Microsoft Excel
+# Project Title : Sales & Finance Analytics Project (AtliQ Hardware) : Microsoft Excel
 
 Project Overview:
 
