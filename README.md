@@ -3,13 +3,13 @@
 ## Project Overview:
 AtliQ Hardwares is a global hardware company that sells products such as PCs, printers, computers, and mouse devices. The purpose of this project is to analyze the company's sales and financial data to better understand its business performance.
 
-Key goals:
+## Key goals:
 - Understand sales growth trends across years.
 - Compare actual sales vs market targets.
 - Track profitability and gross margin performance.
 - Analyze Quarterly, monthly and yearly P&L trends.
 
-My Role as a Data Analyst:
+## My Role as a Data Analyst:
 
 In this project, my responsibilities was: 
 - Cleaning and preparing raw datasets for analysis. 
@@ -19,16 +19,45 @@ In this project, my responsibilities was:
 - Generating insights to support business decision-making. 
 
 
-Tools & Techniques Used
-Tools:
+## Tools:
 Microsoft Excel
 
-Techniques:
+## Techniques:
 - Pivot Tables for data summarization
 - Lookup functions (VLOOKUP, XLOOKUP)
 - Conditional Formatting for pattern detection
 - Calculated columns for profit metrics
 - Charts and visual reports for better insights
+
+Project Workflow
+1. Data Cleaning
+
+- Checked for missing values and duplicates.
+- Standardized date formats.
+- Ensured data consistency.
+
+2. Data Preparation
+
+- Created calculated fields such as:
+- Gross Profit = Net Sales – Freight Cost – Manufacturing Cost
+- Prepared structured tables for reporting and analysis.
+
+3. Exploratory Data Analysis
+
+Analyzed:
+
+- Sales growth across years
+- Customer purchasing behavior
+- Product performance
+- Market performance vs targets
+
+4. Reporting & Dashboard
+
+Created Excel reports to track:
+- Sales trends
+- Profit margins
+- Cost structure
+- Customer performance
 
 ## 1.Report : Market Performance Vs Target
 
