@@ -22,5 +22,6 @@ Project Overview:
 -- 
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/623f47f7e5daef485be2c410439fba094b694af2/Profit%20%26%20Loss%20Report%20by%20Months_page-0001.jpg)
 
+![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/632e867fc2c103ef04791eb4a9de260b1c5b9964/Profit%20%26%20Loss%20Report%20by%20Months_page-0002.jpg)
 
 
