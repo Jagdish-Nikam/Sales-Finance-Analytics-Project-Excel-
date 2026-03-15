@@ -27,4 +27,7 @@ Project Overview:
 --
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/881fb3b550b9e2da8ca6c788fbcf332317f0aed7/Profit%20%26%20Loss%20Report%20by%20Quarters_page-0001.jpg)
 
+-- 
+![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/82988898d2e42eb7b7212a31d4126fce26d06bc4/Profit%20%26%20Loss%20Report%20for%20Market_page-0001.jpg)
+
 
