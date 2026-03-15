@@ -15,5 +15,7 @@ Project Overview:
 --
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/fc365a57ca464a123aa524122136aec198fdaff0/Profit%20%26%20Loss%20Report%20by%20Fiscal%20Years%20for%20Market_page-0001.jpg)
 
+![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/4bf5c57aa3d200b8184f54ccb711d79652989561/Profit%20%26%20Loss%20Report%20by%20Fiscal%20Years%20for%20Market_page-0002.jpg)
+
 
 
