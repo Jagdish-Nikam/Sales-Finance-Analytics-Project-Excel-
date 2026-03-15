@@ -101,7 +101,7 @@ Created Excel reports to track:
 - Cost structure
 - Customer performance
 
-## Key Insights:
+## Key Insights: 
 
 - The company’s sales grew strongly from 2019 to 2021, showing good business growth.
 - Markets like India and USA contributed the highest revenue for the company.
