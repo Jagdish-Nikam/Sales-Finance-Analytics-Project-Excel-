@@ -10,4 +10,7 @@ Project Overview:
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/bbff93fb02de0b27e1cc0a8cbeb57ada1c990fc7/customer%20performance%20report_page-0002.jpg)
 
 --
+![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/c263b7aac93fa70b6ffefa2ab9bf23930b481b1c/Profit%20%26%20Loss%20Report%20by%20Fiscal%20Years_page-0001.jpg)
+
+--
 
