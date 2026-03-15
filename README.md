@@ -4,10 +4,10 @@
 AtliQ Hardwares is a global hardware company that sells products such as PCs, printers, computers, and mouse devices. The purpose of this project is to analyze the company's sales and financial data to better understand its business performance.
 
 Key goals:
-Understand sales growth trends across years.
-Compare actual sales vs market targets.
-Track profitability and gross margin performance.
-Analyze Quarterly, monthly and yearly P&L trends.
+- Understand sales growth trends across years.
+- Compare actual sales vs market targets.
+- Track profitability and gross margin performance.
+- Analyze Quarterly, monthly and yearly P&L trends.
 
 
 ## 1.Report : Market Performance Vs Target
