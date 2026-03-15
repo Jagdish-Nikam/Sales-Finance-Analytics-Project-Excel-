@@ -29,36 +29,6 @@ Microsoft Excel
 - Calculated columns for profit metrics
 - Charts and visual reports for better insights
 
-Project Workflow
-1. Data Cleaning
-
-- Checked for missing values and duplicates.
-- Standardized date formats.
-- Ensured data consistency.
-
-2. Data Preparation
-
-- Created calculated fields such as:
-- Gross Profit = Net Sales – Freight Cost – Manufacturing Cost
-- Prepared structured tables for reporting and analysis.
-
-3. Exploratory Data Analysis
-
-Analyzed:
-
-- Sales growth across years
-- Customer purchasing behavior
-- Product performance
-- Market performance vs targets
-
-4. Reporting & Dashboard
-
-Created Excel reports to track:
-- Sales trends
-- Profit margins
-- Cost structure
-- Customer performance
-
 ## 1.Report : Market Performance Vs Target
 
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/f3123867ddfe56481dae26c735bad95d7029c048/market%20performance%20report_page-0001.jpg)
@@ -95,6 +65,37 @@ Created Excel reports to track:
 ## 6.Report: P & L By Quarters
 
 ![Image Alt](https://github.com/Jagdish-Nikam/Sales_and_Finance_Analytics_Project-Excel/blob/881fb3b550b9e2da8ca6c788fbcf332317f0aed7/Profit%20%26%20Loss%20Report%20by%20Quarters_page-0001.jpg)
+
+
+## Project Workflow
+1. Data Cleaning
+
+- Checked for missing values and duplicates.
+- Standardized date formats.
+- Ensured data consistency.
+
+2. Data Preparation
+
+- Created calculated fields such as:
+- Gross Profit = Net Sales – Freight Cost – Manufacturing Cost
+- Prepared structured tables for reporting and analysis.
+
+3. Exploratory Data Analysis
+
+Analyzed:
+
+- Sales growth across years
+- Customer purchasing behavior
+- Product performance
+- Market performance vs targets
+
+4. Reporting & Dashboard
+
+Created Excel reports to track:
+- Sales trends
+- Profit margins
+- Cost structure
+- Customer performance
 
 
 ## 7.Report: P & L For Market
