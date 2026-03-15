@@ -9,6 +9,15 @@ Key goals:
 - Track profitability and gross margin performance.
 - Analyze Quarterly, monthly and yearly P&L trends.
 
+My Role as a Data Analyst:
+
+In this project, my responsibilities included:
+Cleaning and preparing raw datasets for analysis.
+Performing Exploratory Data Analysis (EDA) to find patterns and trends.
+Building Excel reports and dashboards to analyze sales and financial data.
+Identifying top-performing customers, markets, and products.
+Generating insights to support business decision-making.
+
 
 ## 1.Report : Market Performance Vs Target
 
